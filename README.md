@@ -1,3 +1,9 @@
+# mikechen-maths.github.io
+
+Personal webpage, CV, pubs etc.
+
+Jekyll theme documentation follows ...
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
