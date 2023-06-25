@@ -22,5 +22,4 @@ nav_order: 5
 | UoA S1 2019 | Applied Mathematics Topic C (Practical Asymptotics) |
 | UoA S2 2018 | Partial Differential Equations & Waves III, Applied Mathematics Topic E (Practical Asymptotics) |
 | UoA S1 2018 | Mathematics IB |
-| UoA S2 2015 | Applications of Quantitative
-Methods in Finance I |
+| UoA S2 2015 | Applications of Quantitative Methods in Finance I |
