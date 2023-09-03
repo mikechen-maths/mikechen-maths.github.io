@@ -10,7 +10,7 @@ nav_order: 5
 ### Past teaching
 
 | **Teaching period** | **Course(s)** |
-|-----------------|--------|
+| UoA/Haide Autumn 2023 | Projects in Mathematics, Decision Science |
 | UoA/Haide Spring 2023 | Numerical Methods, Optimisation & Operations Research |
 | UoA/Haide Autumn 2022 | Projects in Mathematics, Probability and Statistics, Decision Science |
 | UoA/Haide Spring 2022 | Numerical Methods, Optimisation & Operations Research, Science Practices & Processes |
